@@ -13,4 +13,5 @@ git clone https://github.com/hasherezade/libpeconv.git
 
 Compiled versions:
 -
-https://drive.google.com/open?id=1Jh6fmi1fdaSRo7lSiSCY3X2Sd9UrQSS1
+https://drive.google.com/open?id=1Jh6fmi1fdaSRo7lSiSCY3X2Sd9UrQSS1<br/>
+(password to the zip: _crackme_)
