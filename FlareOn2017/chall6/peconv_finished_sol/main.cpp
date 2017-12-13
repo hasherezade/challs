@@ -17,7 +17,7 @@ int _stdcall my_MessageBoxA(
     _In_opt_ LPCSTR lpCaption,
     _In_ UINT uType)
 {
-    BYTE key_part = 0;
+    int key_part = 0;
     int key_id = 0;
     sscanf(lpText,"key[%d] = %x;", &key_id, &key_part);
     g_flag[key_id] = key_part;
